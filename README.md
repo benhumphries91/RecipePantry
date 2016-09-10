@@ -1,4 +1,4 @@
-RecipePantry App
+RecipePantry Dev App
 =====================================================================
 
 Copyright © 2012-2015, Intel Corporation. All rights reserved.
